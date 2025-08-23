@@ -28,3 +28,4 @@ Disponibilizar publicamente dados de Clientes via API REST para parceiros, permi
   Program.cs - Configuração de DI, EF InMemory e Swagger.
 ```
 ## Diagrama de Classes
+![diagrama](docs/diagramaDeClasses.png)
